@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.sukses.SuksesFragment">
+
+    <com.github.ybq.android.spinkit.SpinKitView
+        android:id="@+id/skSukses"
+        style="@style/SpinKitView.Small.FoldingCube"
+        android:layout_width="66dp"
+        android:layout_height="66dp"
+        android:layout_gravity="center"
+        android:padding="16dp"
+        app:SpinKit_Color="@android:color/darker_gray" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvSukses"
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:layout_height="match_parent"
+        tools:listitem="@layout/item_list"
+        android:layout_margin="16dp"/>
+
+
+</FrameLayout>

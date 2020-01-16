@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.amary21.e_lapor.InsertActivity">
+    <item
+        android:id="@+id/mn_lalulintas"
+        android:title="@string/lalu_lintas" />
+
+    <item
+        android:id="@+id/mn_kecelakaan"
+        android:title="@string/kecelakaan" />
+    <item
+        android:id="@+id/mn_sosial"
+        android:title="@string/sosial" />
+    <item
+        android:id="@+id/mn_Bencana"
+        android:title="@string/bencana" />
+
+</menu>

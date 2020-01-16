@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">E-Lapor</string>
+    <string name="e_lapor">E-Lapor</string>
+    <string name="title_activity_insert">InsertActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="latlong">/</string>
+    <string name="latitude">Latitude</string>
+    <string name="nama_pelapor">Nama Pelapor</string>
+    <string name="judul_laporan">Judul Laporan</string>
+    <string name="isi_laporan">Isi Laporan</string>
+    <string name="kategori">Kategori</string>
+    <string name="longitude">Longitude</string>
+    <string name="upload_gambar">Upload gambar</string>
+    <string name="buat_laporan">Buat Laporan</string>
+    <string name="lalu_lintas">Lalu Lintas</string>
+    <string name="kecelakaan">Kecelakaan</string>
+    <string name="sosial">Sosial</string>
+    <string name="bencana">Bencana</string>
+    <string name="error_input">Data belum lengkap...</string>
+    <string name="isi_laporan_lagi">Isi Laporan Lagi</string>
+    <string name="penulis">penulis</string>
+    <string name="laporan">Laporan</string>
+    <string name="sukses">Sukses</string>
+    <string-array name="kategori_lapor">
+        <item>Lalu Lintas</item>
+        <item>Kecelakaan</item>
+        <item>Sosial</item>
+        <item>Bencana</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="status">Status :</string>
+    <string name="alamat">Alamat</string>
+</resources>

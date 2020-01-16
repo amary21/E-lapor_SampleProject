@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_proses"
+        android:icon="@drawable/ic_laporan_proses"
+        android:title="@string/laporan"/>
+    <item
+        android:id="@+id/nav_success"
+        android:icon="@drawable/ic_laporan_succes"
+        android:title="@string/sukses"/>
+</menu>
